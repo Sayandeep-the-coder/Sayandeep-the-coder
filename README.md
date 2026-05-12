@@ -27,11 +27,11 @@
     </td>
     <td width="60%">
       <ul>
-        <li>🔭 <b>Currently Building:</b> <a href="https://github.com/Sayandeep-the-coder/GemReview">GemReview CLI</a>, an open-source, AI-powered codebase assistant utilizing Gemini 🧠✨</li>
-        <li>🌱 <b>Currently Exploring:</b> Advanced Rust 🦀, Soroban smart contracts 🧱, and seamless React frontends 🎨</li>
-        <li>👯 <b>Looking to Collaborate On:</b> Open-source developer tooling 🛠️, fun AI integrations 🤖, and Web3 projects 🌐</li>
-        <li>🦸‍♂️ <b>Superpower:</b> Setting up airtight CI/CD pipelines (GitHub Actions) 🪛 and shipping robust developer tools (npm) 📦</li>
-        <li>⚡ <b>Fun Fact:</b> When I'm not untangling smart contract logic 🧩 or prompting LLMs 🤖, I'm probably brainstorming my next side-project! ☕🔥</li>
+        <li>🔭 <b>Currently Building:</b> <a href="https://github.com/Sayandeep-the-coder/graphrag-benchmark">Medical GraphRAG Benchmark</a>, comparing GraphRAG vs Basic RAG with Gemini 🧠✨</li>
+        <li>🌱 <b>Currently Exploring:</b> High-dimensional vector embeddings 🧬, TigerGraph architectures 🕸️, and Stellar payment systems 💸</li>
+        <li>👯 <b>Looking to Collaborate On:</b> Advanced RAG research 🤖, Web3 fintech solutions 🌐, and AI-driven dev tools 🛠️</li>
+        <li>🦸‍♂️ <b>Superpower:</b> Orchestrating complex AI pipelines 🤖 and architecting secure smart contracts on Stellar ⛓️</li>
+        <li>⚡ <b>Fun Fact:</b> When I'm not benchmarking LLM accuracy 📈 or writing Rust 🦀, I'm probably debugging my latest automated code reviewer! ☕🔥</li>
         <li>📫 <b>How to reach me:</b> Connect with me on <a href="https://www.linkedin.com/in/sayandeep-saha-1812b0327/">LinkedIn</a> 👔, check out my <a href="https://sayandeepdev.in">Portfolio</a> 🌐, or drop down to the contact section below! 👇</li>
       </ul>
     </td>
@@ -70,8 +70,9 @@
 
 ## 🔥 Recent Highlights
 
-- 🤖 **GemReview CLI**: Built an AI-powered CLI to streamline PR reviews with actionable prompts that you can copy-paste into your IDE assistants.
-- 🔗 **Soroban Reward Counter**: Developed and deployed a smart contract to the Stellar Testnet with a fully integrated React frontend.
+- 🏥 **Medical GraphRAG Benchmark**: Built a comprehensive evaluation engine to compare **TigerGraph-powered GraphRAG** against Basic RAG using **Gemini Embeddings** and **Gemma**.
+- 💳 **Stellar Students Pay**: Developed a decentralized student payment platform on the **Stellar network**, featuring secure payment flows and Soroban smart contract integration.
+- 🤖 **GemReview**: Scaling an AI-powered CLI and GitHub Action that automates pull request reviews using **Gemini Pro**, supporting team-wide context and OAuth.
 
 ---
 
